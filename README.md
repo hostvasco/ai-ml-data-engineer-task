@@ -10,6 +10,7 @@ You will use the **Ubuntu Dialogue Corpus**, which contains multi-turn dialogues
 * **Access:** [https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data](https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data)
 * **Estimated Time:** 4 hours
 
+If processing the full dataset is not possible, you can use a subset of it.
 
 ## Part 1: Data Engineering - Conversation and Sentiment Analysis
 
