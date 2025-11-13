@@ -3,12 +3,13 @@
 **Objective:**
 This task is designed to assess your data engineering and AI skills in a scenario relevant to Hostaway's focus on improving customer interactions through intelligent data analysis. You will build a data pipeline to process and analyze conversations, extracting insights on sentiment and topic.
 
+**Estimated Time:** 4 hours
+
 
 ## Dataset
 You will use the **Ubuntu Dialogue Corpus**, which contains multi-turn dialogues from users seeking technical support.
 
 * **Access:** [https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data](https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data)
-* **Estimated Time:** 4 hours
 
 If processing the full dataset is not possible, you can use a subset of it.
 
