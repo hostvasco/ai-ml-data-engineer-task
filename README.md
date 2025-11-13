@@ -1,17 +1,15 @@
-# 🛠️ [WIP] Hostaway Senior Data Engineer, AI Team: Take-Home Task
+# Hostaway Senior Data Engineer, AI Team: Take-Home Task
 
 **Objective:**
 This task is designed to assess your data engineering and AI skills in a scenario relevant to Hostaway's focus on improving customer interactions through intelligent data analysis. You will build a data pipeline to process and analyze conversations, extracting insights on sentiment and topic.
 
----
 
-## 💾 Dataset
+## Dataset
 You will use the **Ubuntu Dialogue Corpus**, which contains multi-turn dialogues from users seeking technical support.
 
 * **Access:** [https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data](https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus/data)
 * **Estimated Time:** 4 hours
 
----
 
 ## Part 1: Data Engineering - Conversation and Sentiment Analysis
 
@@ -32,7 +30,6 @@ This output should include the:
 2.  `full conversation text`
 3.  `calculated sentiment score` (e.g., positive, negative, neutral).
 
----
 
 ## Part 2: AI/ML - Topic Extraction and Alignment
 
@@ -70,16 +67,10 @@ Extend your output from Part 1 to include the:
 * `extracted topic(s)`
 * `aligned predefined topic(s)` for each conversation.
 
----
 
-## 📦 Deliverables
+## Deliverables
 
 1.  **Code:** Submit your complete, **well-documented Python code**. Your code should be able to run locally independently by a reviewer, so make sure you have instructions on how to do it.
 2.  **Output Data:** Provide the final processed data file containing the conversation, sentiment, and topic information.
 3.  **Brief Explanation:** A short document (e.g., a `README.md` file) explaining your approach, the tools and libraries you used, and any assumptions you made.
-
----
-
-## 📈 Future Improvements
-
-Explain how you’d change this approach with **online topic modeling**, so that we wouldn’t need to start with a list of topics that is manually created by a human.
+4.  **Future Improvements:** Explain how you’d change this approach with **online topic modeling**, so that we wouldn’t need to start with a list of topics that is manually created by a human.
